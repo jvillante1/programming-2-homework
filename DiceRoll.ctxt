@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DiceRoll
+comment0.text=\n\ Rolls\ the\ dice\ 1000\ times\ and\ checks\ for\ any\ boxcars\ (both\ dice\ roll\ a\ 6)\n\n\ @author\ John\ Villante\n\ @version\ 1.25.2022\n
+comment1.params=
+comment1.target=DiceRoll()
+numComments=2

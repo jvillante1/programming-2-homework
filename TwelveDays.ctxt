@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TwelveDays
+comment0.text=\n\ Prints\ all\ the\ verses\ to\ the\ song\ "The\ Twelve\ Days\ of\ Christmas".\n\n\ @author\ John\ Villante\n\ @version\ 1.25.2022\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
